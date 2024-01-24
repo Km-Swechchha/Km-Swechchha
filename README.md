@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swechchha791
+- 👋 Hi, I’m Km Swechchha.
 - 👀 I’m interested in full stack web development and programming.
 - 🌱 I’m currently learning DSA and MERN stack.
 - 💞️ I’m looking to collaborate on web projects.
