@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Km Swechchha.
-- 👀 I’m interested in full stack web development and programming.
-- 🌱 I’m currently learning DSA and MERN stack.
-- 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me swechchhapandey271@gmail.com
+-  Hi, I’m Km Swechchha.
+-  I’m interested in full stack web development and programming.
+-  I’m looking to collaborate on web projects.
+-  How to reach me- kmswechchhap@gmail.com
 
 <!---
 Swechchha791/Swechchha791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
